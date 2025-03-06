@@ -57,9 +57,9 @@ h2 {
 }
 .row {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   padding: 5px;
-  width: 100%;
+  width: 400px;
 }
 
 .value {
